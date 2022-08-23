@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Play Play Play👋
+- 🔭 I’m currently working on earth
+- 🌱 I’m currently learning how  change world
+- 👯 I’m looking to collaborate on change world
+- 💬 shout to be light
+- 📫 How to reach me: shout skr skr skr!
 <!--
 **Ignorant-lxf/Ignorant-lxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
