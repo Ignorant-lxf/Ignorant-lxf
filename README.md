@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on change world
 - 💬 shout to be light
 - 📫 How to reach me: shout skr skr skr!
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **Ignorant-lxf/Ignorant-lxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
